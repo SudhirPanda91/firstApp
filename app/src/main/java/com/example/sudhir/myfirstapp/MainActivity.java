@@ -19,5 +19,5 @@ public class MainActivity extends AppCompatActivity {
         intent.setAction("com.example.sudhir.myfirstapp.CUSTOM_INTENT");
         sendBroadcast(intent);
     }
-    //test
+    //test ss
 }
